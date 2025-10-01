@@ -1,0 +1,8 @@
+{
+    "database": {
+        "host": "localhost",
+        "database": "horizonte_del_saber_2",
+        "user": "root",
+        "password": ""
+    }
+}
